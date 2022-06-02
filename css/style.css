@@ -1,0 +1,23 @@
+.element{
+    float: left;
+    width: 33%;
+    padding: 40px;
+}
+
+@media screen and (max-width: 900px){
+    .element{
+        width:50%
+    }
+}
+
+@media screen and (max-width: 600px){
+    .element{
+        width:100%
+    }
+}
+
+@media screen{
+    #welcome-section{
+        height:100%
+    }
+}
