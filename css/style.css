@@ -21,3 +21,15 @@
         height:100%
     }
 }
+
+.navbar {
+    display: flex;
+    position: fixed;
+    width: 100%;
+}
+
+#nav-tabs {
+    
+    width: 25%;
+}
+
